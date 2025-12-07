@@ -28,22 +28,7 @@ cybersécurité, médecine, finance, IoT, maintenance prédictive, signaux faibl
 
 À taux de faux positifs égal :
 
-[
-\text{Multi-critères optimal} \quad \Longleftrightarrow \quad \rho < 1 - \frac{1}{\mu \sqrt{k}}
-]
-
-
-Le détecteur multi-critères est optimal si et seulement si
-
-$\rho < 1 - \frac{1}{\mu \sqrt{k}}$.
-
-
-
-<pre> ```math \text{Multi-critères optimal} \;\Longleftrightarrow\; \rho < 1 - \frac{1}{\mu \sqrt{k}} ``` </pre>
-
-
-
-
+Multi-critères optimal ⟺  $\rho < 1 - \frac{1}{\mu \sqrt{k}}$.
 
 où :
 
