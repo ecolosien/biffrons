@@ -32,6 +32,11 @@ cybersécurité, médecine, finance, IoT, maintenance prédictive, signaux faibl
 \text{Multi-critères optimal} \quad \Longleftrightarrow \quad \rho < 1 - \frac{1}{\mu \sqrt{k}}
 ]
 
+
+$\rho < 1 - \frac{1}{\mu \sqrt{k}}$
+
+
+
 où :
 
 | Symbole | Signification                               |
