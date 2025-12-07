@@ -33,7 +33,9 @@ cybersécurité, médecine, finance, IoT, maintenance prédictive, signaux faibl
 ]
 
 
-$\rho < 1 - \frac{1}{\mu \sqrt{k}}$
+Le détecteur multi-critères est optimal si et seulement si 
+$\rho < 1 - \frac{1}{\mu \sqrt{k}}$.
+
 
 
 
