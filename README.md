@@ -44,12 +44,12 @@ où :
 
 ## 🗺️ Illustration de la frontière décisionnelle
 
-La zone bleue représente les cas où la détection **multi-critères** est optimale.
-La zone mauve indique que le **mono-critère** est préférable.
+La zone bleue = multi-critères optimal (Biffron gagne)
+La zone mauve = mono-critère optimal
+La courbe noire = frontière 
 
-*(Illustration fournie dans le PDF officiel.)*
+![Frontière décisionnelle BIFFRON](./biffron_decision_boundary.png)
 
- 
 
 # 📄 PDF officiel
 
